@@ -23,7 +23,7 @@ This is normal text
 
 <img src="https://thumbs-prod.si-cdn.com/Abm-e-V_cqdIqYDo_cXApagw8zI=/800x600/filters:no_upscale():focal(1471x1061:1472x1062)/https://public-media.si-cdn.com/filer/b6/30/b630b48b-7344-4661-9264-186b70531bdc/istock-478831658.jpg" height=200 width=200>
 
-[Google](htpps://www.google.com)<br>
+[Google](https://www.google.com)<br>
 [Facebook](www.facebook.com)
 [github]
 
@@ -33,4 +33,19 @@ This is normal text
 S.No|Name|MobileNo
 -----|----|-------
 1|Satheeh|9687687697
-2|hari|867896876
+2|hari|867896876 
+
+``` python
+def isEven(n):
+    if n%2==0:
+       print('even')
+    else:
+       print('odd)
+```
+
+- [X] Task1
+- [ ] Task2
+
+:grinning:
+
+:joy:
